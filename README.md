@@ -54,6 +54,10 @@ The server is running, now you can make requests to it through your desired meth
 
 ## Demonstration video
 
+
+https://user-images.githubusercontent.com/67285232/165487266-9991da4b-ffd7-4675-bb5c-71436b14a37b.mp4
+
+
 ## **Contributing**
 
 Phil loy
