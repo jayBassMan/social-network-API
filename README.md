@@ -64,6 +64,6 @@ Phil loy
 
 ## **License**
 
-This application is licensed under the MIT License, you can find the full license information [here](http://github.com/lukecp5/employee-tracker/LICENSE.txt)
+This application is licensed under the MIT License.
 
 ---
